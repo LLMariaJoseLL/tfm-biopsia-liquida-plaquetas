@@ -135,7 +135,7 @@ La ejecución completa necesita un tiempo considerable. Los apartados más
 costosos son el ajuste de hiperparámetros, especialmente las configuraciones
 de XGBoost y del bosque aleatorio, y los análisis de estabilidad, que
 repiten el entrenamiento sobre veinte particiones distintas.
-El tiempo aproximado de ejecución es: 41 minutos y 2 segundos
+El tiempo aproximado de ejecución es: 24 minutos
 
 -------------------------------------------------------------------------------
 5. SALIDAS GENERADAS
